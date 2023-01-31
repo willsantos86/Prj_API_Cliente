@@ -1,0 +1,1 @@
+web: guricorn setup.wsgi --log-file -
