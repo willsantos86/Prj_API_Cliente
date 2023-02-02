@@ -1,6 +1,6 @@
 
 # API Rest com Django
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/willsantos86/API_Escola/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/willsantos86/Prj_API_Cliente/blob/main/LICENSE) 
 
 # Indice
 - [Sobre](#Sobre)
@@ -20,10 +20,10 @@ A aplicação consiste incluir validações nos modelos e nos serializers, mensa
  
 ## Funcionalidades
 
-- [x] Criar alunos, cursos e matrículas
-- [x] Listar alunos, cursos e matrículas
-- [x] Atualizar alunos, cursos e matrículas
-- [x] Deletar alunos, cursos e matrículas
+- [x] Criar clientes
+- [x] Listar clientes
+- [x] Atualizar clientes
+- [x] Deletar clientes
 - [x] Autenticações
 - [x] Filtros, pesquisas e ordenações.
 
